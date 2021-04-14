@@ -1,5 +1,4 @@
-
-
+package wsVideoStore;
 public abstract class Movie
 {
 	private String title;
